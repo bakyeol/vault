@@ -1,9 +1,12 @@
 ---
-title: 박열의 Vault
+title: SUPPLIES/GYMBOXX Notion Vault
 ---
 
-# 박열의 Vault
+# SUPPLIES/GYMBOXX Notion Vault
 
-공개 Obsidian Vault 테스트 사이트입니다.
+## 자료 둘러보기
 
-[[테스트 문서]]
+- [지점관리자 온보딩·매뉴얼](<Notion 지점관리자 온보딩&매뉴얼/00 홈.md>)
+- [신규 지점 탈의실 구성품 변경](<짐박스 신규 지점 탈의실 구성품 변경/00 홈.md>)
+
+각 자료의 홈에서 분류별 목차와 문서를 찾아볼 수 있습니다.

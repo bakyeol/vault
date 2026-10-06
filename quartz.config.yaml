@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: SUPPLIES/GYMBOXX Notion Vault
+  pageTitle: SUPPLIES/GBX Notion Archive
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -145,8 +145,9 @@ plugins:
       enableRSS: true
   - source: "@quartz-community/favicon"
     enabled: true
+  # 숫자 키캡 이모지의 OG 이미지 변환 오류를 피하고 기본 공유 이미지를 사용합니다.
   - source: "@quartz-community/og-image"
-    enabled: true
+    enabled: false
   - source: "@quartz-community/cname"
     enabled: true
   - source: "@quartz-community/canvas-page"

@@ -20,12 +20,12 @@ if ! git diff --cached --quiet; then
 fi
 
 npm run quartz -- build
-git add content/
+git add -- content/ quartz.config.yaml publish.sh PUBLISHING.md "사이트 배포.command"
 
 if git diff --cached --quiet; then
   print "공개할 새 콘텐츠가 없습니다."
   exit 0
 fi
 
-git commit -m "Publish Obsidian notes"
+git commit -m "Publish notes and site settings"
 git push origin v5

@@ -1,7 +1,19 @@
 # 공개 범위와 배포
 
-이 저장소는 GitHub Pages의 `https://bakyeol.github.io/vault/`에 공개됩니다. 현재 `content/`에는 Quartz 동작 확인용 테스트 문서만 들어 있습니다. 여기에 둔 Markdown 파일과 첨부 자료는 방문자가 볼 수 있습니다.
+공개 주소: https://bakyeol.github.io/vault/
 
-실제 Obsidian 문서를 추가하기 전에는 공개 가능한 노트와 첨부 파일만 `content/`에 선별해 넣으세요. 현재 Obsidian Documents Vault는 연결하지 않았습니다. 전체 Vault를 그대로 복사하거나 심볼릭 링크하면 비공개 메모와 첨부까지 저장소에 올라갈 수 있습니다.
+## 더블클릭으로 배포
 
-공개용 Markdown을 `content/`에 넣은 뒤 프로젝트 폴더에서 `./publish.sh`를 실행하면 로컬 빌드, 콘텐츠 커밋, GitHub 업로드가 순서대로 진행됩니다. 업로드가 끝나면 GitHub Actions가 사이트를 갱신합니다. 이 스크립트는 `content/`만 커밋하도록 제한되어 있습니다.
+프로젝트 폴더의 `사이트 배포.command`를 더블클릭하세요. 터미널이 열리고 로컬 빌드 → 콘텐츠·사이트 설정 커밋 → GitHub 업로드를 실행합니다. 업로드 후 GitHub Actions가 사이트를 배포합니다. 실패하면 중단하고 오류를 표시합니다. 자동으로 원본 Obsidian 볼트를 복사하지는 않습니다.
+
+터미널을 사용하는 경우 `./publish.sh`를 실행해도 같습니다. 스크립트는 `content/`, `quartz.config.yaml`, 배포 스크립트와 안내 파일만 커밋합니다. 그 외 변경은 포함하지 않습니다. 이미 스테이징된 변경이 있으면 중단합니다.
+
+## 콘텐츠
+
+공개할 노트와 필요한 첨부파일을 `content/`에 넣으세요. `content/index.md`가 사이트 첫 화면이며, 현재 두 자료 폴더의 홈으로 연결합니다. 이곳의 문서와 첨부는 누구나 볼 수 있고 공개 GitHub 저장소에도 저장됩니다. 자료에서 개인 연락처, 계정 정보, 내부용 링크 등을 확인한 뒤 배포하세요.
+
+`.obsidian`, `private`, `templates`는 제외되며 원본 Documents Vault는 자동 연결되지 않습니다.
+
+## 숫자 이모지 빌드 오류
+
+`CustomOgImages: codepoint 31-20e3 not found in map`은 숫자 키캡 이모지를 공유 미리보기 이미지로 변환할 때 발생합니다. `@quartz-community/og-image`를 꺼서 기본 공유 이미지를 사용하도록 했습니다. 문서 본문의 이모지는 유지됩니다.
