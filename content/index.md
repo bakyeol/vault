@@ -2,8 +2,6 @@
 title: SUPPLIES/GBX Notion Archive
 ---
 
-# SUPPLIES/GBX Notion Archive
-
 ## 자료 둘러보기
 
 - [지점관리자 온보딩·매뉴얼](<Notion 지점관리자 온보딩&매뉴얼/00 홈.md>)
