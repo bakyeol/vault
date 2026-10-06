@@ -22,11 +22,11 @@ notion_url: https://www.notion.so/781b9add12ec482180df5f5b4ea3ed56
 
 **짐박스 어플을 길게 꾹- 누르기 > 애플리케이션 정보 > 저장공간 > 데이터 삭제, 캐시 삭제**
 
-![551be129-IMG_7969](<../../../_attachments/551be129-IMG_7969.jpg>)
+![551be129-IMG_7969](<../../../첨부파일/551be129-IMG_7969.jpg>)
 
-![7aa02ac4-IMG_7971](<../../../_attachments/7aa02ac4-IMG_7971.jpg>)
+![7aa02ac4-IMG_7971](<../../../첨부파일/7aa02ac4-IMG_7971.jpg>)
 
-![625cac73-IMG_7972](<../../../_attachments/625cac73-IMG_7972.jpg>)
+![625cac73-IMG_7972](<../../../첨부파일/625cac73-IMG_7972.jpg>)
 
 #### 3. 올바른 로그인 정보 입력
 
@@ -50,11 +50,11 @@ notion_url: https://www.notion.so/781b9add12ec482180df5f5b4ea3ed56
 
 **PASS 어플만** **삭제 후 구글 스토어 진입 >  오른쪽 상단 계정(동그라미 아이콘) > 앱 및 기기관리 > 관리 > 설치되지 않음 > 짐박스 PASS 어플 선택 > 설치**
 
-![f767ea44-Screenshot_20240717_224445_Google_Play_Store](<../../../_attachments/f767ea44-Screenshot_20240717_224445_Google_Play_Store.jpg>)
+![f767ea44-Screenshot_20240717_224445_Google_Play_Store](<../../../첨부파일/f767ea44-Screenshot_20240717_224445_Google_Play_Store.jpg>)
 
-![ca67af33-1721223927788](<../../../_attachments/ca67af33-1721223927788.jpeg>)
+![ca67af33-1721223927788](<../../../첨부파일/ca67af33-1721223927788.jpeg>)
 
-![cd8b0871-1721223951045](<../../../_attachments/cd8b0871-1721223951045.jpeg>)
+![cd8b0871-1721223951045](<../../../첨부파일/cd8b0871-1721223951045.jpeg>)
 
 ---
 
