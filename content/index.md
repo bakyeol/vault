@@ -1,8 +1,8 @@
 ---
-title: SUPPLIES/GYMBOXX Notion Vault
+title: SUPPLIES/GBX Notion Archive
 ---
 
-# SUPPLIES/GYMBOXX Notion Vault
+# SUPPLIES/GBX Notion Archive
 
 ## 자료 둘러보기
 
